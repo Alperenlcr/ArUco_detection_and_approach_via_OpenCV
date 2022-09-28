@@ -5,5 +5,6 @@ To run you only need to run python code. If you have any library missing install
 
 # aruco1.py result on a rover.
 Video has delays because video captured from control station and it was far away from rover.
-Code gives command to rover to reach aruco marker.
+Code gives command to rover to reach aruco marker. Video is 2x speed.
+-
 https://user-images.githubusercontent.com/75525649/192766198-da427ceb-669d-4279-9280-c71fb9c6b591.mp4
